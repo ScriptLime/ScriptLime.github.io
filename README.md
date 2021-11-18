@@ -23,7 +23,7 @@ gem "minima"
 And then execute:
 
     $ bundle
-
+ 
 
 ## Contents At-A-Glance
 
